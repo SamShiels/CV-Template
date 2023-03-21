@@ -9,7 +9,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 794px;
-  height: 2246px;
 
   display: grid;
   grid-template-columns: 250px auto;
