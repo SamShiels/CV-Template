@@ -38,11 +38,11 @@
   color: rgb(158, 158, 158);
 }
 
-.content > .location-dates > .dates {
+.content .dates {
   text-align: right;
 }
 
-.content > .location-dates > h5 {
+.content h5 {
   margin: 4px 0;
 }
 
